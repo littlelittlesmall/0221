@@ -1,0 +1,58 @@
+{
+	"variables": [],
+	"info": {
+		"name": "noUsing setNextRequest-collection runner test",
+		"_postman_id": "558e6b17-3094-3faa-0429-198c621a1791",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Request jd",	
+            
+            
+
+			"request": {
+				"url": "http://wwww.jd.com",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Request vip",
+			"request": {
+				"url": "http://www.vip.com",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Request taobao",
+			"request": {
+				"url": "http://www.taobao.com",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Request pinduoduo",
+			"request": {
+				"url": "http://www.pinduoduo.com",
+				"method": "POST",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
